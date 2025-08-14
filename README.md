@@ -4,6 +4,8 @@
 Aplicação de Lista de Tarefas desenvolvida em aula no Módulo 31, utilizando React, TypeScript e Redux.
 O projeto foca em componentização, gerenciamento global de estado, tipagem avançada e boas práticas de desenvolvimento front-end.
 
+---
+
 📚 Descrição Detalhada
 
 Este projeto foi desenvolvido como parte das atividades práticas guiadas pelo professor, com o objetivo de criar uma aplicação funcional de lista de tarefas, aplicando conceitos essenciais do ecossistema React.
@@ -28,6 +30,8 @@ Uso de Reducer e Redux Provider para gerenciamento de estado global.
 
 Aplicação de ReturnType e boas práticas de tipagem.
 
+---
+
 🚀 Tecnologias Utilizadas
 
 React
@@ -39,6 +43,8 @@ Redux
 Styled Components
 
 JavaScript (ES6+)
+
+---
 
 🎯 Objetivo de Aprendizado
 
