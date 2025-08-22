@@ -1,61 +1,82 @@
-📝 Lista de Tarefas – Projeto de Estudo
-📌 Descrição Rápida
+📋 Projeto 5 – Lista de Tarefas (EBAC)
 
-Aplicação de Lista de Tarefas desenvolvida em aula no Módulo 31, utilizando React, TypeScript e Redux.
-O projeto foca em componentização, gerenciamento global de estado, tipagem avançada e boas práticas de desenvolvimento front-end.
+Este projeto foi desenvolvido durante os módulos 31 e 32 do curso da EBAC, com foco em React, TypeScript e Redux.
+O objetivo foi criar uma aplicação de lista de tarefas (To-Do List) completa, explorando desde conceitos básicos de componentização até o gerenciamento global de estado com Redux.
 
----
-
-📚 Descrição Detalhada
-
-Este projeto foi desenvolvido como parte das atividades práticas guiadas pelo professor, com o objetivo de criar uma aplicação funcional de lista de tarefas, aplicando conceitos essenciais do ecossistema React.
-
-Durante o desenvolvimento, foram realizados os seguintes passos e aprendizados:
-
-Configuração inicial do repositório e instalação de bibliotecas, fontes e estilos.
-
-Estruturação de pastas para melhor organização do código.
-
-Criação de componentes reutilizáveis como inputs, botões e cards de tarefas.
-
-Implementação de estilização global e uso de variáveis para layout e cores.
-
-Aplicação de overflow para permitir scroll em conteúdos extensos.
-
-Utilização de useState para gerenciamento de estado local e operador ternário para renderização condicional.
-
-Implementação de Enums no TypeScript para representar status e prioridade das tarefas.
-
-Uso de Reducer e Redux Provider para gerenciamento de estado global.
-
-Aplicação de ReturnType e boas práticas de tipagem.
 
 ---
 
-🚀 Tecnologias Utilizadas
+🚀 Funcionalidades
 
-React
+Criar, editar e remover tarefas
 
-TypeScript
+Marcar tarefas como concluídas
 
-Redux
+Filtrar por status (pendente/concluída) e prioridade
 
-Styled Components
+Barra de busca para encontrar tarefas rapidamente
 
-JavaScript (ES6+)
+Contador de tarefas
+
+Navegação com React Router (SPA)
+
+Estilização com variáveis globais, enums e boas práticas
+
+
 
 ---
 
-🎯 Objetivo de Aprendizado
+🛠️ Tecnologias utilizadas
 
-Consolidar conhecimentos em:
+React (com componentização e hooks)
 
-Organização de pastas e componentes.
+TypeScript (tipagem, enums, returnType)
 
-Tipagem forte com TypeScript.
+Redux Toolkit (useReducer, Provider, dispatch, store)
 
-Uso de enums e reducer.
+React Router (Single Page Application)
 
-Gerenciamento de estado global com Redux.
+Styled Components / CSS Modules (estilização organizada)
 
-Boas práticas de estilização e componentização.
+
+
+---
+
+📚 Aprendizados principais
+
+Durante o desenvolvimento, pratiquei:
+
+Organização de pastas e componentes
+
+Uso de useState, useReducer e Redux Toolkit
+
+Componentes controlados e reuso de botões
+
+Tipagem avançada em TypeScript (enums, props, objetos de configuração)
+
+Criação de filtros dinâmicos com lógica de status e prioridade
+
+Implementação de roteamento com React Router
+
+Melhoria de performance com boas práticas de código
+
+
+
+---
+
+▶️ Como rodar o projeto localmente
+
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repo.git
+
+# Acesse a pasta do projeto
+cd seu-repo
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm start
+
+
+---
