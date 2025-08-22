@@ -1,46 +1,61 @@
-# Getting Started with Create React App
+📝 Lista de Tarefas – Projeto de Estudo
+📌 Descrição Rápida
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicação de Lista de Tarefas desenvolvida em aula no Módulo 31, utilizando React, TypeScript e Redux.
+O projeto foca em componentização, gerenciamento global de estado, tipagem avançada e boas práticas de desenvolvimento front-end.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+📚 Descrição Detalhada
 
-### `npm start`
+Este projeto foi desenvolvido como parte das atividades práticas guiadas pelo professor, com o objetivo de criar uma aplicação funcional de lista de tarefas, aplicando conceitos essenciais do ecossistema React.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Durante o desenvolvimento, foram realizados os seguintes passos e aprendizados:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Configuração inicial do repositório e instalação de bibliotecas, fontes e estilos.
 
-### `npm test`
+Estruturação de pastas para melhor organização do código.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Criação de componentes reutilizáveis como inputs, botões e cards de tarefas.
 
-### `npm run build`
+Implementação de estilização global e uso de variáveis para layout e cores.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Aplicação de overflow para permitir scroll em conteúdos extensos.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Utilização de useState para gerenciamento de estado local e operador ternário para renderização condicional.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Implementação de Enums no TypeScript para representar status e prioridade das tarefas.
 
-### `npm run eject`
+Uso de Reducer e Redux Provider para gerenciamento de estado global.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Aplicação de ReturnType e boas práticas de tipagem.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+🚀 Tecnologias Utilizadas
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+React
 
-## Learn More
+TypeScript
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Redux
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Styled Components
+
+JavaScript (ES6+)
+
+---
+
+🎯 Objetivo de Aprendizado
+
+Consolidar conhecimentos em:
+
+Organização de pastas e componentes.
+
+Tipagem forte com TypeScript.
+
+Uso de enums e reducer.
+
+Gerenciamento de estado global com Redux.
+
+Boas práticas de estilização e componentização.
